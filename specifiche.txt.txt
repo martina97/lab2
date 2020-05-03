@@ -1,0 +1,4 @@
+1) crete git repository (usare git, non svn)
+2) hello world java
+3) fare 3 commit diversi con 3 cambiamenti delle linee di codice
+4) creare un programma java che analizza il log file, riporta gli ID dei commit aventi la parla "added" nei commenti
